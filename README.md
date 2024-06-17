@@ -2,15 +2,10 @@
 
 A Flutter Mobile App which shows anime platforms content related to Anime from Anilist.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-06-17 223241](https://github.com/GisoreB/anima_graphql_flutter_app/assets/144854877/22d77398-39d2-4ba9-a904-a065ec6783e1)
+![Screenshot 2024-06-17 223220](https://github.com/GisoreB/anima_graphql_flutter_app/assets/144854877/ce7cb5e7-2b8b-4114-89a5-3edd260cd2e9)
+![Screenshot 2024-06-17 223027](https://github.com/GisoreB/anima_graphql_flutter_app/assets/144854877/0da1cc65-b1cc-4307-a508-dd30282951e7)
+![Screenshot 2024-06-17 222957](https://github.com/GisoreB/anima_graphql_flutter_app/assets/144854877/935130ff-f0e4-4332-b6ba-111bc7e3d08a)
+![Screenshot 2024-06-17 222722](https://github.com/GisoreB/anima_graphql_flutter_app/assets/144854877/44938986-6038-4520-9d0b-f43a9af4e4e6)
